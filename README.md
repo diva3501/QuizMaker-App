@@ -88,10 +88,6 @@ QuizMakerApp/
 
 Contributions are welcome! Feel free to submit a pull request or open an issue to suggest improvements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 - **Author**: Divakar G  
